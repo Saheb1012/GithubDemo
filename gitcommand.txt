@@ -7,3 +7,22 @@ add file to staging area
 again git addnoe git status
 some random text
 git add.(add all untracked files and changes to staging area)
+
+git commit -m "new file added"
+
+ git config --global user.email "youremailid@gmail.com"
+ git config --glabal user.name "your name"
+ git log  who did what changes and all
+ git diff
+ know exactly what you have changed
+
+ git ls-files (list all files available in staging area)
+
+ git rm --cached filename
+ ( if you want to keep your file in your hard disk but you dont want git to track this file)
+ 
+ branch
+ git brach second branch
+ create another branch whose name is second branch 
+
+ git checkout second branchswitch to second branch

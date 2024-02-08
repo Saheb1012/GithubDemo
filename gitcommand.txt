@@ -29,3 +29,6 @@ git commit -m "new file added"
 
  git checkout -b third-branch
  create and checkout third branch
+
+git remote add origin url
+(it is responsible to connect local repository to remote repository)

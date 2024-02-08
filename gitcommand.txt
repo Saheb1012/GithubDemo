@@ -26,3 +26,6 @@ git commit -m "new file added"
  create another branch whose name is second branch 
 
  git checkout second branchswitch to second branch
+
+ git checkout -b third-branch
+ create and checkout third branch
